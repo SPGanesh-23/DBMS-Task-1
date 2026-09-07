@@ -1,0 +1,11 @@
+ProductID,SellerID,ProductName,Category,Price,StockQty
+301,201,"Wireless Mouse",Electronics,599.00,50
+302,202,Smartphone,Electronics,19999.00,25
+303,203,Laptop,Electronics,54999.00,15
+304,204,"Mixer Grinder","Home Appliances",3499.00,30
+305,205,T-Shirt,Fashion,799.00,100
+306,206,"Smart Watch",Electronics,2499.00,40
+307,207,"Programming Book",Books,899.00,60
+308,208,"Cricket Bat",Sports,1999.00,20
+309,209,"Bluetooth Speaker",Electronics,1599.00,35
+310,210,Backpack,Accessories,1299.00,45

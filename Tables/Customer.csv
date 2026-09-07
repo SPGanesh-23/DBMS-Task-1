@@ -1,0 +1,10 @@
+CustomerID,Name,Email,Phone,Gender,DateOfBirth
+101,"Ganesh Kumar",ganesh@gmail.com,9876543210,Male,2005-08-15
+102,Rahul,rahul@gmail.com,9876543211,Male,2004-06-20
+103,Priya,priya@gmail.com,9876543212,Female,2005-11-10
+104,Arun,arun@gmail.com,9876543213,Male,2003-03-25
+105,Divya,divya@gmail.com,9876543214,Female,2004-09-18
+106,Karthik,karthik@gmail.com,9876543215,Male,2005-01-12
+107,Sneha,sneha@gmail.com,9876543216,Female,2003-12-05
+108,Vijay,vijay@gmail.com,9876543217,Male,2004-07-22
+109,Anjali,anjali@gmail.com,9876543218,Female,2005-04-30
